@@ -1,0 +1,3 @@
+[submodule "ubiq-net-intelligence-api"]
+	path = ubiq-net-intelligence-api
+	url = https://github.com/ubiq/ubiq-net-intelligence-api
